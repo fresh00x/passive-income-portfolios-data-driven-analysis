@@ -1,6 +1,6 @@
 # passive-income-portfolios-data-driven-analysis
 
-This comprehensive analysis delves into passive income portfolios and their potential for generating long-term wealth. The target audience of investors will gain insights into portfolio construction t
+This comprehensive analysis delves into passive income portfolios and their potential for generating sustainable long-term returns. In the current landscape, investors are increasingly seeking options
 
 ## Dataset Info
 
