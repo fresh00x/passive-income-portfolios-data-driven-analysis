@@ -1,0 +1,33 @@
+{
+  "content": "As the demand for stable investment options grows, passive income portfolios have become increasingly attractive. This data-driven analysis explores various strategies for creating a diversified portfolio that generates regular cash flow without requiring active management.\n\nIn this report, we will:\n- Define and analyze the concept of passive income portfolios.\n- Identify key asset classes and products that can generate passive income.\n- Analyze historical performance of such portfolios across different market conditions.\n- Discuss practical implementation steps for building a customized portfolio.\n- Explore future directions and potential improvements in this investment strategy.",
+  "metadata": {
+    "topic": "Passive Income Portfolios: Data-Driven Analysis",
+    "field": "Finance",
+    "audience": "investors",
+    "format": "analysis",
+    "title": "Passive Income Portfolios: Data-Driven Analysis",
+    "abstract": "This comprehensive analysis delves into passive income portfolios and their potential for generating long-term wealth. The target audience of investors will gain insights into portfolio construction techniques that can lead to steady cash flows.",
+    "key_findings": [
+      "Passive income portfolios have demonstrated their resilience during various economic cycles.",
+      "Diversification is crucial to manage risks associated with these portfolios.",
+      "Investors can achieve solid returns through strategic allocations across asset classes, including bonds, stocks, real estate, and commodities.",
+      "The use of exchange-traded funds (ETFs) and other low-cost investment products simplifies the portfolio management process.",
+      "Properly constructed passive income portfolios can provide a reliable source of long-term cash flows for investors."
+    ],
+    "suggested_price_usd": 27,
+    "target_platforms": [
+      "gumroad",
+      "kdp",
+      "github"
+    ],
+    "tags": [
+      "Passive Income",
+      "Investment Strategies",
+      "Diversification",
+      "ETFs",
+      "Asset Allocation"
+    ],
+    "directory": "/home/kali/omni-money-agent/data/publications/Passive_Income_Portfolios_Data-Driven_A_20260315_2102",
+    "created_at": "2026-03-15T21:11:09.760985"
+  }
+}
